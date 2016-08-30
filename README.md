@@ -1,1 +1,1 @@
-It contains files about a python project
+It contains files of a python project
